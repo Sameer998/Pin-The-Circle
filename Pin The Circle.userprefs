@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Needle Scripts/NeedleHeadScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game Manager/GameManager.cs" Line="43" Column="43" />
+      <File FileName="Assets/Scripts/Circle Scripts/CircleRotateScript.cs" Line="15" Column="7" />
+      <File FileName="Assets/Scripts/Needle Scripts/NeedleHeadScript.cs" Line="7" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
